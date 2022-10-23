@@ -1,25 +1,18 @@
 {
   "files": {
-    "main.css": "/amt83/static/css/main.1ac2ed3d.chunk.css",
-    "main.js": "/amt83/static/js/main.37ccb360.chunk.js",
-    "main.js.map": "/amt83/static/js/main.37ccb360.chunk.js.map",
-    "runtime-main.js": "/amt83/static/js/runtime-main.f0bf8192.js",
-    "runtime-main.js.map": "/amt83/static/js/runtime-main.f0bf8192.js.map",
-    "static/js/2.ebbef55b.chunk.js": "/amt83/static/js/2.ebbef55b.chunk.js",
-    "static/js/2.ebbef55b.chunk.js.map": "/amt83/static/js/2.ebbef55b.chunk.js.map",
-    "static/js/3.d0662a6a.chunk.js": "/amt83/static/js/3.d0662a6a.chunk.js",
-    "static/js/3.d0662a6a.chunk.js.map": "/amt83/static/js/3.d0662a6a.chunk.js.map",
+    "main.css": "/amt83/static/css/main.79d14309.css",
+    "main.js": "/amt83/static/js/main.ce3601fe.js",
+    "static/js/787.39d6ebe3.chunk.js": "/amt83/static/js/787.39d6ebe3.chunk.js",
+    "static/media/profile_pic.jpg": "/amt83/static/media/profile_pic.a98341e299ddfa6a4e19.jpg",
+    "static/media/University_of_Bath_logo.png": "/amt83/static/media/University_of_Bath_logo.c2f9f4d1b0890ec29d71.png",
+    "static/media/AAPS_RGB_Strap.png": "/amt83/static/media/AAPS_RGB_Strap.56dee5ee751794438a50.png",
     "index.html": "/amt83/index.html",
-    "static/css/main.1ac2ed3d.chunk.css.map": "/amt83/static/css/main.1ac2ed3d.chunk.css.map",
-    "static/js/2.ebbef55b.chunk.js.LICENSE.txt": "/amt83/static/js/2.ebbef55b.chunk.js.LICENSE.txt",
-    "static/media/AAPS_RGB_Strap.56dee5ee.png": "/amt83/static/media/AAPS_RGB_Strap.56dee5ee.png",
-    "static/media/University_of_Bath_logo.c2f9f4d1.png": "/amt83/static/media/University_of_Bath_logo.c2f9f4d1.png",
-    "static/media/profile_pic.a98341e2.jpg": "/amt83/static/media/profile_pic.a98341e2.jpg"
+    "main.79d14309.css.map": "/amt83/static/css/main.79d14309.css.map",
+    "main.ce3601fe.js.map": "/amt83/static/js/main.ce3601fe.js.map",
+    "787.39d6ebe3.chunk.js.map": "/amt83/static/js/787.39d6ebe3.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0bf8192.js",
-    "static/js/2.ebbef55b.chunk.js",
-    "static/css/main.1ac2ed3d.chunk.css",
-    "static/js/main.37ccb360.chunk.js"
+    "static/css/main.79d14309.css",
+    "static/js/main.ce3601fe.js"
   ]
 }
