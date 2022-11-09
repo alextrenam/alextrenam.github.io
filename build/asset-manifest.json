@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/amt83/static/css/main.79d14309.css",
-    "main.js": "/amt83/static/js/main.ce3601fe.js",
-    "static/js/787.39d6ebe3.chunk.js": "/amt83/static/js/787.39d6ebe3.chunk.js",
-    "static/media/profile_pic.jpg": "/amt83/static/media/profile_pic.a98341e299ddfa6a4e19.jpg",
-    "static/media/University_of_Bath_logo.png": "/amt83/static/media/University_of_Bath_logo.c2f9f4d1b0890ec29d71.png",
-    "static/media/AAPS_RGB_Strap.png": "/amt83/static/media/AAPS_RGB_Strap.56dee5ee751794438a50.png",
-    "index.html": "/amt83/index.html",
-    "main.79d14309.css.map": "/amt83/static/css/main.79d14309.css.map",
-    "main.ce3601fe.js.map": "/amt83/static/js/main.ce3601fe.js.map",
-    "787.39d6ebe3.chunk.js.map": "/amt83/static/js/787.39d6ebe3.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.f6e4ccb3.js",
+    "static/js/787.d63b85a4.chunk.js": "/static/js/787.d63b85a4.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.f6e4ccb3.js.map": "/static/js/main.f6e4ccb3.js.map",
+    "787.d63b85a4.chunk.js.map": "/static/js/787.d63b85a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79d14309.css",
-    "static/js/main.ce3601fe.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f6e4ccb3.js"
   ]
 }

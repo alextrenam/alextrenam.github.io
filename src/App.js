@@ -1,20 +1,24 @@
+import logo from './logo.svg';
 import './App.css';
-import ProfilePic from './components/ProfilePic.js';
-import Bio from './components/Bio.js';
-import ActivityFeed from './components/ActivityFeed.js';
-import Current from './components/Current.js';
-import ContactInfo from './components/ContactInfo.js';
 
 function App() {
   return (
-	  <div className="App">
-	  <div id="top-bar"></div>
-	  <ProfilePic/>
-	  <ContactInfo/>
-	  <Bio/>
-	  <Current/>
-	  <ActivityFeed/>
-	  </div>
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+    </div>
   );
 }
 
