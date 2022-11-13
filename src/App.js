@@ -9,13 +9,15 @@ import ContactInfo from './components/ContactInfo.js';
 function App() {
   return (
 	  <div className="App">
-	  <div id="top-bar"></div>
 	  <ProfilePic/>
-	  <ContactInfo/>
 	  <Bio/>
 	  <Current/>
 	  <Previous/>
 	  <ActivityFeed/>
+	  <div id="top-bar"></div>
+	  <div id="contact-wrapper">
+	  <ContactInfo/>
+	  </div>
 	  </div>
   );
 }
