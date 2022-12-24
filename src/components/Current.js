@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 class Current extends Component {
 	render() {
             return (
-		<div id="current" class="content-wrapper">
-		    <h3>Current Projects, Roles & Teaching</h3>
+		<div id="current">
+		    <h3>Current</h3>
 		    <h4>Committee Membership</h4>
 		    <ul>
 			<li><a href="https://bath-siam-ima.github.io/" target="blank">Bath SIAM-IMA Student Chapter</a></li>

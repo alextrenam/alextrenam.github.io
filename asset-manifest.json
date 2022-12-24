@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.b127619e.css",
-    "main.js": "./static/js/main.30def3c4.js",
+    "main.css": "./static/css/main.2f37797d.css",
+    "main.js": "./static/js/main.2bcb7867.js",
     "static/js/787.d63b85a4.chunk.js": "./static/js/787.d63b85a4.chunk.js",
-    "static/media/profile_pic.jpg": "./static/media/profile_pic.a98341e299ddfa6a4e19.jpg",
+    "static/media/profile_pic_2.jpg": "./static/media/profile_pic_2.ba93a6600592b037091a.jpg",
     "static/media/University_of_Bath_logo.png": "./static/media/University_of_Bath_logo.c2f9f4d1b0890ec29d71.png",
     "static/media/AAPS_RGB_Strap.png": "./static/media/AAPS_RGB_Strap.56dee5ee751794438a50.png",
     "index.html": "./index.html",
-    "main.b127619e.css.map": "./static/css/main.b127619e.css.map",
-    "main.30def3c4.js.map": "./static/js/main.30def3c4.js.map",
+    "main.2f37797d.css.map": "./static/css/main.2f37797d.css.map",
+    "main.2bcb7867.js.map": "./static/js/main.2bcb7867.js.map",
     "787.d63b85a4.chunk.js.map": "./static/js/787.d63b85a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b127619e.css",
-    "static/js/main.30def3c4.js"
+    "static/css/main.2f37797d.css",
+    "static/js/main.2bcb7867.js"
   ]
 }

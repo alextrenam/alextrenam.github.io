@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Previous extends Component {
 	render() {
             return (
-		<div id="previous" class="content-wrapper">
+		<div id="previous">
 		    <h3>Previous Projects, Roles & Teaching</h3>
 		    <h4>Committee Membership</h4>
 		    <ul>
