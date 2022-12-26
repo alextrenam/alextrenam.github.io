@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 class Previous extends Component {
 	render() {
             return (
-		<div id="previous">
-		    <h3>Previous Projects, Roles & Teaching</h3>
+		<div class="flex-column">
+		    <h3>Previous</h3>
 		    <h4>Committee Membership</h4>
 		    <ul>
 			<li><a href="https://www.aaps-cdt.ac.uk/events/aaps-annual-conference-2022" target="blank">AAPS CDT Conference 2022</a> Organising Committee</li>

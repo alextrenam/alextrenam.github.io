@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Current extends Component {
 	render() {
             return (
-		<div id="current">
+		<div class="flex-column">
 		    <h3>Current</h3>
 		    <h4>Committee Membership</h4>
 		    <ul>

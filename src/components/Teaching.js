@@ -6,8 +6,8 @@ class Teaching extends Component {
 	render() {
             return (
 		<div id="teaching" class="content-wrapper">
-		    <h3>Teaching & Other Roles</h3>
-		    <div id="teaching-flex-wrapper">
+		    <h2>Teaching & Other Roles</h2>
+		    <div class="flex-wrapper">
 			<Current/>
 			<Previous/>
 		    </div>
