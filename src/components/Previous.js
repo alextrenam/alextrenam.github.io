@@ -12,7 +12,8 @@ class Previous extends Component {
 		    </ul>
 		    <h4>Teaching</h4>
 		    <ul>
-			<li><a href="https://www.bath.ac.uk/catalogues/2021-2022/ma/MA10275.html" target="blank">MA10275</a> Programming and data science (2021-2022)</li>
+			<li>MA10275 Programming and data science (<a href="https://www.bath.ac.uk/catalogues/2021-2022/ma/MA10275.html" target="blank">2021-2022</a>, <a href="https://www.bath.ac.uk/catalogues/2022-2023/ma/MA10275.html" target="blank">2022-2023</a>)</li>
+			<li>MA20222 Numerical analysis (<a href="https://www.bath.ac.uk/catalogues/2022-2023/ma/MA20222.html" target="blank">2022-2023</a>)</li>
 		    </ul>
 		</div>
 	    );
