@@ -74,6 +74,7 @@ body {
     white-space: pre-wrap;
     text-align: left;
     z-index: 1;
+    transition-duration: 0.5s;
 }
 
 #contact-info ul {
