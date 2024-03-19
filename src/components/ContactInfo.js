@@ -11,7 +11,7 @@ class ContactInfo extends Component {
     constructor(props) {
 	super(props)
 	this.state = {
-	    bottom: "-230px"
+	    bottom: "-250px"
 	};
     }
     
@@ -20,14 +20,14 @@ class ContactInfo extends Component {
     }
 
     closeContact = () => {
-	this.setState({bottom: "-230px"});
+	this.setState({bottom: "-250px"});
     }
 
     render() {
         return (
 	    <div id="contact-info" style={{bottom: this.state.bottom}}>
-		<button onClick={this.openContact}>O</button>
-		<button onClick={this.closeContact}>X</button>
+		<button onClick={this.openContact}>{'\u21D1'}</button>
+		<button onClick={this.closeContact}>{'\u21D3'}</button>
 		<h3>Contact Info</h3>
 		<ul>
 		    <li><a href="mailto:amt83@bath.ac.uk"><img src={Email} alt="Email icon" height={contact_height}/></a></li>

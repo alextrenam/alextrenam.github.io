@@ -35,7 +35,7 @@ body {
 .content-wrapper {
     text-align: justify;
     background: #cfcfcf;
-    padding: 1px 12px;
+    padding: 1% 3%;
     margin: 2px 2px;
     box-shadow: 2px 2px 12px #5c5c5c;
 }
@@ -113,11 +113,12 @@ body {
 
 .flex-wrapper {
     display: flex;
+    padding: 2% 2%;
 }
 
 .flex-column {
     width: 50%;
-    margin: 0 5%;
+    margin: 1% 5%;
 }
 
 @media (max-width: 650px) {
