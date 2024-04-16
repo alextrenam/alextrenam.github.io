@@ -11,7 +11,7 @@ class ContactInfo extends Component {
     constructor(props) {
 	super(props)
 	this.state = {
-	    bottom: "-250px"
+	    bottom: "-260px"
 	};
     }
     
@@ -20,7 +20,7 @@ class ContactInfo extends Component {
     }
 
     closeContact = () => {
-	this.setState({bottom: "-250px"});
+	this.setState({bottom: "-260px"});
     }
 
     render() {
