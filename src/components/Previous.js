@@ -14,6 +14,7 @@ class Previous extends Component {
 		    <h4>Outreach</h4>
 		    <ul>
 			<li>Lecturer at <a href="https://heilbronn.ac.uk/2022/02/04/ri-bath-2022/" target="blank">Royal Institution/Bath Masterclasses 2022</a></li>
+			<li>Tutor at <a href="https://heilbronn.ac.uk/2024/01/18/royal-institution-bath-masterclasses-2024/" target="blank">Royal Institution/Bath Masterclasses 2024</a></li>
 		    </ul>
 		    
 		    <h4>Committee Membership</h4>

@@ -12,7 +12,7 @@ class Current extends Component {
 		    
 		    <h4>Outreach</h4>
 		    <ul>
-			<li>Tutor at <a href="https://heilbronn.ac.uk/2024/01/18/royal-institution-bath-masterclasses-2024/" target="blank">Royal Institution/Bath Masterclasses 2024</a></li>
+			<li>Nothing currently</li>
 		    </ul>
 		    
 		    <h4>Committee Membership</h4>
