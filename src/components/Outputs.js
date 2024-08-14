@@ -13,7 +13,7 @@ class Outputs extends Component {
 
 		    <h4>Publications</h4>
 		    <ul>
-			<li><b>A. Trenam</b>, C. Aza, C. Jones, <i>et al.</i>, "An Analytical Model for Wrinkle-free Forming of Composite Laminates", <i>Composites Part A: Applied Science and Manufacturing</i>, vol. 186, p. 108386, 2024. DOI: <a href="10.1016/j.compositesa.2024.108386" target="blank">10.1016/j.compositesa.2024.108386</a>.</li>
+			<li><b>A. Trenam</b>, C. Aza, C. Jones, <i>et al.</i>, "An Analytical Model for Wrinkle-free Forming of Composite Laminates", <i>Composites Part A: Applied Science and Manufacturing</i>, vol. 186, p. 108386, 2024. DOI: <a href="https://doi.org/10.1016/j.compositesa.2024.108386" target="blank">10.1016/j.compositesa.2024.108386</a>.</li>
 		    </ul>
 		</div>
 	    );
