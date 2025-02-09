@@ -9,6 +9,8 @@ class Interests extends Component {
 			<li>Discontinuous Galerkin finite element methods</li>
 			<li>Structure-preserving discretisations</li>
 			<li>Numerical methods for electrodiffusion/electrohydrodynamics</li>
+			<li>Numerical methods for non-Newtonian fluids</li>
+			<li>Interdisciplinary mathematical modelling</li>
 		    </ul>
 		</div>
 	    );
