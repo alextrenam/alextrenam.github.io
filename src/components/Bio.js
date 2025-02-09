@@ -7,7 +7,15 @@ class Bio extends Component {
 		<div id="bio">
 		    <ProfilePic/>
 		    <h3>About Me</h3>
-		    <p id="bio-body">I'm a final year (scary!) numerical analysis PhD student in Cohort 2 of the <a href="https://www.aaps-cdt.ac.uk/" target="blank">Advanced Automotive Propulsion Systems Centre for Doctoral Training</a>. Under the supervision of Prof. Tristan Pryer, I'm researching structure-preserving numerical methods for battery electrolyte models (electrodiffusion and electrohydrodynamics), with a particular focus on discontinuous Galerkin finite element methods.{"\n\n"}If you would like to get in contact, my info can be found at the bottom of the page. I also have a <a href="https://github.com/alextrenam" target="blank">GitHub page</a> where you can find one of my current side projects developing a numerical analysis Python plotting package named NAPTools (<b>N</b>umerical <b>A</b>nalysis <b>P</b>lotting <b>Tool</b>box (+<b>s</b>). Any input, feedback or requests are very welcome!</p>
+		    <p id="bio-body">I'm an Innovation Expert (Research Associate) at the <a href="https://mdice.site.hw.ac.uk/" target="blank"><b>M</b>athematics-<b>d</b>riven <b>I</b>nnovation <b>Ce</b>ntre</a> (M-DICE) at Heriot-Watt University. My background is numerical analysis and numerical methods, specifically finite element methods, for solving partial differential equations.
+
+			{"\n\n"}
+			
+			I am in the final stages of completing my PhD as a member of the <a href="https://www.aaps-cdt.ac.uk/" target="blank">Advanced Automotive Propulsion Systems Centre for Doctoral Training</a>. Under the supervision of Prof. Tristan Pryer, I have developed <b>structure-preserving numerical methods</b> for: continuum models of <b>charged particle transport</b>, especially in the context of electrolytes; <b>non-Newtonian fluids</b>; and <b>optimal control</b> problems involving <b>hypocoercive</b> operators.
+			
+			{"\n\n"}
+			
+		    If you would like to get in contact, my info can be found at the bottom of the page. I also have a <a href="https://github.com/alextrenam" target="blank">GitHub page</a> where you can see some of my side projects!</p>
 		</div>
             );
   	}
