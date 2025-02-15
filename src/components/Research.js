@@ -8,8 +8,8 @@ class Research extends Component {
 		<div id="research" class="content-wrapper">
 		    <h2>Research</h2>
 		    <div class="flex-wrapper">
-			<Interests/>
 			<Outputs/>
+			<Interests/>
 		    </div>
 		</div>
 	    );

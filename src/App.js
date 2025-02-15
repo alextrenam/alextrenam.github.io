@@ -11,7 +11,6 @@ function App() {
 	  <div id="main-body">
 	  <Bio/>
 	  <Research/>
-	  <Teaching/>
 	  <ContactInfo/>
 	  </div>
 	  </div>

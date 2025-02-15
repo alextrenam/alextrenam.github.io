@@ -6,11 +6,9 @@ class Interests extends Component {
 		<div class="flex-column">
 		    <h3>Interests</h3>
 		    <ul>
-			<li>Discontinuous Galerkin finite element methods</li>
 			<li>Structure-preserving discretisations</li>
-			<li>Numerical methods for electrodiffusion/electrohydrodynamics</li>
-			<li>Numerical methods for non-Newtonian fluids</li>
 			<li>Interdisciplinary mathematical modelling</li>
+			<li>Numerical analysis of finite element methods</li>
 		    </ul>
 		</div>
 	    );
