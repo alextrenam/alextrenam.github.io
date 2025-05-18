@@ -9,6 +9,7 @@ class Interests extends Component {
 			<li>Structure-preserving discretisations</li>
 			<li>Interdisciplinary mathematical modelling</li>
 			<li>Numerical analysis of finite element methods</li>
+			<li>Multiscale methods</li>
 		    </ul>
 		</div>
 	    );
