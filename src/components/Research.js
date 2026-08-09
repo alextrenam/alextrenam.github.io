@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Interests from "./Interests.js";
+import Upcoming from "./Upcoming.js";
 import Outputs from "./Outputs.js";
 
 class Research extends Component {

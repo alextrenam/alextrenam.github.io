@@ -17,9 +17,10 @@ class Bio extends Component {
 
 			Recently I've been working on:
 			<ul>
+			    <li>applying structure-preserving techniques to reduce nonlinear solver iterations in multiphase subsurface fluid simulations</li>
+			    <li>developing a physics-based continuum model and corresponding finite element methods for peat bog system dynamics</li>
 			    <li>combining generative machine learning techniques with multiscale finite element methods to speed up simulations in the context of uncertainty quantification</li>
-			    <li>creating a mixed integer linear programming model of national-scale cold chain logistics to inform policy decisions to reduce emissions</li>
-			    <li>developing a meso-scale physics-based continuum model and corresponding stable finite element methods for peat bog system dynamics</li>
+			    <li>creating a mixed integer linear programming model of national-scale cold chain logistics to inform policy decisions on reducing emissions</li>
 			</ul>
 			
 			{"\n"}
